@@ -2,10 +2,19 @@
 title: vision-aid Documentation
 ---
 
+```{toctree}
+:maxdepth: 2
+:caption: Contents
+
+overview
+mobile_app
+mlkit_backend
+tflite_backend
+troubleshooting
+roadmap
+changelog
+```
+
 # vision-aid
 
-Welcome to the vision-aid docs. This site is built with Sphinx and hosted on Read the Docs.
-
-## Contents
-
-Documentation coming soon.
+Welcome to the vision-aid docs.
